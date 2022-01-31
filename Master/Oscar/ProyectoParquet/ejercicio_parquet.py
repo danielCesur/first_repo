@@ -15,7 +15,7 @@ df2['away'] = df['away']
 df2['date'] = df['date']
 df2['home_score'] = df['home_score']
 df2['away_score'] = df['away_score']
-
+#df_summary = df[['home','away','date','home_score','away_score']]
 
 
 # Save as csv file
